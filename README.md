@@ -7,3 +7,5 @@
 
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/mfazeelfarooq/github-readme-stats)
+
+[![mfazeelfarooq's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mfazeelfarooq&layout=compact)](https://github.com/mfazeelfarooq/github-readme-stats)
