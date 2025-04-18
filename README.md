@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mfazeelfarooq&label=Profile%20Views&color=blueviolet&style=flat" alt="mfazeelfarooq" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mfazeelfarooq&show_icons=true&theme=tokyonight" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfazeelfarooq&layout=compact&theme=tokyonight" height="200"/>
