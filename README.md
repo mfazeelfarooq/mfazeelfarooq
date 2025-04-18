@@ -59,26 +59,7 @@
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:me.fazeel.farooq@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="32" height="32"/>
-  </a>
-  <a href="https://facebook.com/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="32" height="32"/>
-  </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="32" height="32"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mfazeelfarooq" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32"/>
-  </a>
-  <a href="https://instagram.com/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="32" height="32"/>
-  </a>
-</p>
-
----
+🌐 Connect with Me
+<p align="center"> <a href="mailto:me.fazeel.farooq@gmail.com" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" alt="Gmail" width="32" height="32"/> </a> <a href="https://facebook.com/yourusername" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="32" height="32"/> </a> <a href="https://twitter.com/yourusername" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="32" height="32"/> </a> <a href="https://www.linkedin.com/in/mfazeelfarooq" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32"/> </a> <a href="https://instagram.com/yourusername" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="Instagram" width="32" height="32"/> </a> </p>
 
 
