@@ -11,7 +11,8 @@ I've contributed to impactful projects like:
 🎶 **Chord-Nator AI** – An AI-powered music generation platform with blockchain-based NFT ownership.  
 🤖 **AI Chatbot** – Real-time, NLP-powered chatbot using LLaMA, Gemma, and FastAPI.  
 🧾 **ERP System** – A complete business management suite built in Django.  
-🌐 **Portfolio Website** – Fully featured personal site with dynamic CMS, authentication, and cloud integration.
+🌐 **Portfolio Website** – Fully featured personal site with dynamic CMS, authentication, and cloud integration.  
+Check it out here: [fazeelportfolio.netlify.app](https://fazeelportfolio.netlify.app)
 
 
 <p align="center">
