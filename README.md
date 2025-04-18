@@ -56,12 +56,5 @@
 </p>
 
 
-## 🌐 Connect with me:
-
-<p align="center">
-  <a href="mailto:mfazeelfarooq@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://facebook.com/yourusername"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mfazeelfarooq"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-</p>
+🌐 Connect with Me
+<p align="center"> <a href="mailto:me.fazeel.farooq@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://www.linkedin.com/in/mfazeelfarooq" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/mfazeelfarooq" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://fazeelportfolio.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/> </a> <a href="https://nlppro.streamlit.app/" target="_blank"> <img src="https://img.shields.io/badge/Live App-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit App"/> </a> </p>
