@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I am Muhammad Fazeel Farooq👋
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mfazeelfarooq&label=Profile%20Views&color=blueviolet&style=flat" alt="mfazeelfarooq" />
 </p>
