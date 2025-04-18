@@ -26,3 +26,6 @@
   <img src="https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC"/>
   <img src="https://img.shields.io/badge/Tools-Magento-informational?style=flat&logo=magento&logoColor=white&color=EE672F"/>
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mfazeelfarooq&theme=default)](https://git.io/streak-stats)
+
