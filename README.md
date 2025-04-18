@@ -56,30 +56,29 @@
 </p>
 
 
-Got it! Here's your original section with **updated icons only** to make it look more professional and consistent, while keeping the structure the same:
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:me.fazeel.farooq@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=flat&logo=minutemailer&logoColor=white" alt="Email"/>
+  <a href="mailto:me.fazeel.farooq@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="32" height="32"/>
   </a>
-  <a href="https://facebook.com/yourusername">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"/>
+  <a href="https://facebook.com/yourusername" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="32" height="32"/>
   </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white" alt="Twitter"/>
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="32" height="32"/>
   </a>
-  <a href="https://www.linkedin.com/in/mfazeelfarooq">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/mfazeelfarooq" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32"/>
   </a>
-  <a href="https://instagram.com/yourusername">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://instagram.com/yourusername" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="32" height="32"/>
   </a>
 </p>
 
 ---
 
-✅ *Note:* You can replace `yourusername` in the links with your actual usernames for Facebook, Twitter (X), and Instagram. Let me know if you want to include GitHub, Portfolio, or other platforms too.
+
