@@ -2,6 +2,17 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mfazeelfarooq&label=Profile%20Views&color=blueviolet&style=flat" alt="mfazeelfarooq" />
 </p>
+
+👋 **About Me**  
+I'm **M Fazeel Farooq**, a versatile Full Stack Developer and passionate AI Enthusiast from Lahore, Pakistan. I specialize in building scalable web applications and integrating cutting-edge AI/ML solutions. With hands-on experience in React, Next.js, Django, and Python, I love turning complex problems into elegant, high-performance digital products.
+
+I've contributed to impactful projects like:
+
+🎶 **Chord-Nator AI** – An AI-powered music generation platform with blockchain-based NFT ownership.  
+🤖 **AI Chatbot** – Real-time, NLP-powered chatbot using LLaMA, Gemma, and FastAPI.  
+🧾 **ERP System** – A complete business management suite built in Django.  
+🌐 **Portfolio Website** – Fully featured personal site with dynamic CMS, authentication, and cloud integration.
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mfazeelfarooq&show_icons=true&theme=tokyonight" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfazeelfarooq&layout=compact&theme=tokyonight" height="200"/>
