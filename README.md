@@ -22,6 +22,8 @@ Check it out here: [fazeelportfolio.netlify.app](https://fazeelportfolio.netlify
 </p>
 
 ---
+  <img src="https://github-readme-stats.vercel.app/api?username=mfazeelfarooq&show_icons=true&theme=tokyonight" height="200"/>
+
 
  ## 🧰 Languages & Tools:
 ### 🖥 Programming Languages:
