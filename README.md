@@ -22,6 +22,7 @@ Check it out here: [fazeelportfolio.netlify.app](https://fazeelportfolio.netlify
 </p>
 
 ---
+[![mfazeelfarooq's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mfazeelfarooq&layout=compact)](https://github.com/mfazeelfarooq/github-readme-stats)
 
 
  ## 🧰 Languages & Tools:
