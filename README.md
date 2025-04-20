@@ -66,7 +66,7 @@ Check it out here: [fazeelportfolio.netlify.app](https://fazeelportfolio.netlify
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 </p>
 
-
+<figure><embed src="https://wakatime.com/share/@6810a2f7-d6ef-405d-a4af-3fd79e99a655/a463135f-2e97-4e20-af1d-031f50a863eb.svg"></embed></figure>
 
 ---
 
