@@ -1,10 +1,5 @@
-<p align="center">
-  <img src="your-image-url" alt="Logo" width="200"/>
-</p>
+ ### Hi Iam Muhammad Fazeel Farooq
 
-<p align="center">
-  <strong>Hi Iam Muhammad Fazeel Farooq</strong>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mfazeelfarooq&label=Profile%20Views&color=blueviolet&style=flat" alt="mfazeelfarooq" />
