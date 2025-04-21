@@ -1,5 +1,5 @@
  <p align="center">
-  Hi 👋, I'm Muhammad Sameer Farooq
+  Hi 👋, I'm Muhammad Fazeel Farooq
 </p>
 
 
