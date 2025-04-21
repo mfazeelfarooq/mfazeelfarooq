@@ -1,4 +1,11 @@
-##                Hi I am Muhammad Fazeel Farooq👋
+<p align="center">
+  <img src="your-image-url" alt="Logo" width="200"/>
+</p>
+
+<p align="center">
+  <strong>Your centered text here</strong>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mfazeelfarooq&label=Profile%20Views&color=blueviolet&style=flat" alt="mfazeelfarooq" />
 </p>
