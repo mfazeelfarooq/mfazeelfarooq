@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Your centered text here</strong>
+  <strong>Hi Iam Muhammad Fazeel Farooq</strong>
 </p>
 
 <p align="center">
