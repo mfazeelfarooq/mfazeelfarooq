@@ -1,4 +1,7 @@
- ### Hi Iam Muhammad Fazeel Farooq
+ <p align="center">
+  Hi 👋, I'm Muhammad Sameer Farooq
+</p>
+
 
 
 <p align="center">
