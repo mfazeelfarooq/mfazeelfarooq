@@ -1,6 +1,6 @@
- <p align="center">
+ <h3 align="center">
   Hi 👋, I'm Muhammad Fazeel Farooq
-</p>
+</h3>
 
 
 
